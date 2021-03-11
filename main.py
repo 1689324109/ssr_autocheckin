@@ -4,8 +4,8 @@ base_url = 'http://suying688.com'
 
 
 def checkin():
-    email = input('email: ')
-    password = input('password: ')
+    email = '1689324109@qq.com'
+    password = 'zcj.080818'
 
     email = email.split('@')
     email = email[0] + '%40' + email[1]
